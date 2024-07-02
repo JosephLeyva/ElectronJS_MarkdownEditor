@@ -1,0 +1,16 @@
+{
+  "name": "electronjs_markdown_editor",
+  "version": "1.0.0",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^31.1.0",
+    "marked": "^13.0.1"
+  }
+}
